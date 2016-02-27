@@ -4,8 +4,7 @@ This is a basic car booking portal, created in VB.net using basic html with back
 Requirements : Microsoft Visual Studio (preferably 2012),SQL SERVER MANAGEMENT STUDIO 2012,basic html,VB.net.
 
 FRONT END
-1.Extract the zipped folder TRAVELS.
-Now the unzipped folder contains 2 parts ; WebaApplication4, data.bak. 
+1.Extract the zipped folder.The unzipped folder contains 2 parts ; WebaApplication4, data.bak. 
 WebApplication4 folder contains the project consisting of all webforms.
 2.Open MAINPAGE.aspx with Microsoft Visual Studio (preferably 2012). 
 3. Run the project on your browser.
